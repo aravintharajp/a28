@@ -1,4 +1,4 @@
-viod main()
+int main()
 {
    int n,i,ans[50];
    scanf("%d",&n);
